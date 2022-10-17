@@ -86,7 +86,7 @@ searched for any exercise idea on the feed. For the further details, user can se
   - Get the idea of how much you are improving and how often you use app and work out
   - User can login time and logout time to keep track of how long they are working out
   - Click on the camera feature and save pictures for the record if interested
- - Settings
+- Settings
   - Click on profile settings and change username, email or password
   - Change preferences about the reccomendations
 
