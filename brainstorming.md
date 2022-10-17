@@ -55,12 +55,12 @@
 Let's try it out!
 - FlexZone
     - **Description:** This is an app that informs you on what type of workout will be work for a chosen muscle group. Users can use this before their trip to the gym.
-    **Category:** Fitness/Exercise
-    **Mobile:** People can post their workouts to show thier progress. Notifications for when its time to workout. 
-    **Story:** This is important for beginners that do not know exaclty what type of workout to do. It can get many people into the gym.
-    **Market:** Can be used by a lot of workout ethusiasts and some one who is new to exercise and fitness.
-    **Habit:** User can used them on daily basis depending on how frequently they exercise.
-    **Scope:** They can used it easily while focusing on exercise without getting distracted by unwanted to search of resources.
+    - **Category:** Fitness/Exercise
+    - **Mobile:** People can post their workouts to show thier progress. Notifications for when its time to workout. 
+    - **Story:** This is important for beginners that do not know exaclty what type of workout to do. It can get many people into the gym.
+    - **Market:** Can be used by a lot of workout ethusiasts and some one who is new to exercise and fitness.
+    - **Habit:** User can used them on daily basis depending on how frequently they exercise.
+    - **Scope:** They can used it easily while focusing on exercise without getting distracted by unwanted to search of resources.
 
 - RecycleShare `Dagem Teferra`
     - **Description:** App that tells you if an item is recyclable and breaks down your impact on reducing carbon footprint. You will be able to add what you have recycled to a list and have the final breakdown show how much impact you had on the environment. 
@@ -98,7 +98,7 @@ Let's try it out!
 
 
 ### Final App :rocket::rocket::rocket:
-- [X]FlexZone
+- [X] FlexZone
     - **Description:** This is an app that informs you on what type of workout will be work for a chosen muscle group. Users can use this before their trip to the gym.
     - **Category:** Fitness/Exercise
     - **Mobile:** People can post their workouts to show thier progress. Notifications for when its time to workout. 
