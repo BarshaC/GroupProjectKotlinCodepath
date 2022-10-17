@@ -93,7 +93,7 @@ searched for any exercise idea on the feed. For the further details, user can se
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
