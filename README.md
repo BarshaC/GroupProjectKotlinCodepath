@@ -43,7 +43,7 @@ searched for any exercise idea on the feed. For the further details, user can se
 **Stretch Features**
 
 * Youtube recommendations about what particular workout they are interested in 
-* 
+* Share progress with others
 
 ### 2. Screen Archetypes
 
