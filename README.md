@@ -15,7 +15,7 @@ They can tap on the muscles/bodyparts and can see in detail of how to exercise f
 app. But, it can be also used as a lifestyle app which can basically keep track of how much you worked out by keeping track of if you
 searched for any exercise idea on the feed. For the further details, user can see the recommended videos which can help them work out(optional).
 
-
+Link for the HackMD file that we all used for brainstorming and concluded we should work on this app: [Link](https://hackmd.io/WKGpj2PNQvqIGLUbyML5JA)
 
 ### App Evaluation
 
