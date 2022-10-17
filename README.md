@@ -1,5 +1,5 @@
 # GroupProjectKotlinCodepath
-# Milestone 1 - WorkOutEasy
+# Milestone 1 - FlexZone
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 ## Overview
 
 ### Description
-WorkOutEasy can be helpful for people who are new to working out. User can search for the type of workout they are interested in.
+FlexZone can be helpful for people who are new to working out. User can search for the type of workout they are interested in.
 They can tap on the muscles/bodyparts and can see in detail of how to exercise focuing on those muscles. It is basically a fitness
 app. But, it can be also used as a lifestyle app which can basically keep track of how much you worked out by keeping track of if you
 searched for any exercise idea on the feed. For the further details, user can see the recommended videos which can help them work out(optional).
