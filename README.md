@@ -36,7 +36,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [ ] Welcome page xml created
 - [ ] Registreation page xml created
 - [ ] Login page xml created
-- [ ] Stream page xml created
+- [x] Stream page xml created
 - [ ] Streak page xml created
 - [X] Profile page xml created
 - [X] Profile Edit page xml created
