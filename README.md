@@ -110,6 +110,6 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/hRWLvpt.gif" width=600>
 
 ### Github Progress GIF
-<img src="https://media.giphy.com/media/lHHRK2Sxoy3M6FmV02/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/lHHRK2Sxoy3M6FmV02/giphy.gif">
 
 ### [BONUS] Interactive Prototype
