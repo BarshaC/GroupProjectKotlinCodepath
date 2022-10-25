@@ -112,4 +112,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 ### Github Progress GIF
 <img src="https://media.giphy.com/media/lHHRK2Sxoy3M6FmV02/giphy.gif">
 
+### Sprint -Issues/Created/Completed so far by the team - overall project progress
+![Kapture 2022-10-25 at 13 14 17](https://user-images.githubusercontent.com/64405568/197839767-f71acd89-00d9-4a2d-9186-f2d63e9921f5.gif)
+
 ### [BONUS] Interactive Prototype
