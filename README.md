@@ -106,6 +106,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
+### Current Progress GIF
+<img src="https://i.imgur.com/hRWLvpt.gif" width=600>
 
 ### [BONUS] Interactive Prototype
