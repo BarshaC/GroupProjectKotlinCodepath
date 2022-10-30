@@ -31,16 +31,20 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 
 ### 1. User Features (Required and Optional)
 
-**Progress**
-
+**Finished**
 - [x] Welcome page xml created
 - [x] Registreation page xml created
 - [x] Login page xml created
 - [x] Stream page xml created
-- [ ] Streak page xml created
 - [X] Profile page xml created
 - [X] Profile Edit page xml created
+**Progress**
+- [ ] Streak page xml created
 - [X] Fragments Created
+- [X] Research about the Muscles/ information to be added to the Back4App
+- [X] Added Back4app for the app
+- [X] Started adding data to the DataBase/BAck4App
+- [ ] Detail Page for the Streak with detail images
 
 
 **Required Features**
