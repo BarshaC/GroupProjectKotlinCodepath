@@ -40,6 +40,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [ ] Streak page xml created
 - [X] Profile page xml created
 - [X] Profile Edit page xml created
+- [X] Fragments Created
 
 
 **Required Features**
@@ -107,12 +108,11 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### Current Progress GIF
-<img src="https://i.imgur.com/hRWLvpt.gif" width=600>
-
-### Github Progress GIF
-<img src="https://media.giphy.com/media/lHHRK2Sxoy3M6FmV02/giphy.gif">
+![walkthrough](https://user-images.githubusercontent.com/64405568/198864934-83c05fbf-adb8-4b8d-bd49-7b7df94ee155.gif)
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
 ![Kapture 2022-10-25 at 13 14 17](https://user-images.githubusercontent.com/64405568/197839767-f71acd89-00d9-4a2d-9186-f2d63e9921f5.gif)
+
+
 
 ### [BONUS] Interactive Prototype
