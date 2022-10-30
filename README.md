@@ -111,8 +111,19 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 ![walkthrough](https://user-images.githubusercontent.com/64405568/198864934-83c05fbf-adb8-4b8d-bd49-7b7df94ee155.gif)
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
+Week #1 to 2
 ![Kapture 2022-10-25 at 13 14 17](https://user-images.githubusercontent.com/64405568/197839767-f71acd89-00d9-4a2d-9186-f2d63e9921f5.gif)
+
+Week #3
+https://user-images.githubusercontent.com/64405568/198865120-2953b4d2-040e-47cb-86b3-f95bca147fe0.mp4
 
 
 
 ### [BONUS] Interactive Prototype
+
+
+
+
+
+
+
