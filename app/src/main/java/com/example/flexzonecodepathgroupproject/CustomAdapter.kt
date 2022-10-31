@@ -1,4 +1,4 @@
-package com.group.myapplication
+package com.example.flexzonecodepathgroupproject
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.flexzonecodepathgroupproject.R
 
 class CustomAdapter(private val mList: List<ItemsViewModel>) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
 
@@ -40,7 +39,7 @@ class CustomAdapter(private val mList: List<ItemsViewModel>) : RecyclerView.Adap
 
     // Holds the views for adding it to image and text
     class ViewHolder(ItemView: View) : RecyclerView.ViewHolder(ItemView) {
-        val imageView: ImageView = itemView.findViewById(R.id.imageview)
-        val textView: TextView = itemView.findViewById(R.id.textView)
+        val imageView: ImageView = itemView.findViewById(R.id.imageView)
+        val textView: TextView = itemView.findViewById(R.id.tvDescription)
     }
 }
