@@ -118,7 +118,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 Week #1 to 2
 img src="https://i.imgur.com/hRWLvpt.gif" width=600>
 Week #3
-![Kapture 2022-10-30 at 02 07 44](https://user-images.githubusercontent.com/64405568/198865197-bcf4e100-6ac4-4753-8233-05a4a669f83a.gif)
+![Kapture 2022-10-31 at 13 35 08](https://user-images.githubusercontent.com/64405568/199084859-6ccf37bd-746a-482d-b0ae-cff368b649a6.gif)
 ![Muscle Recycler View]<img src="https://media.giphy.com/media/QDMmNsmmdVsDRusr1B/giphy.gif" width=600>
 
 
