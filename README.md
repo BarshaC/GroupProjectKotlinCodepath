@@ -38,13 +38,15 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [x] Stream page xml created
 - [X] Profile page xml created
 - [X] Profile Edit page xml created
-**Progress**
-- [ ] Streak page xml created
+- [X] Streak page xml created
 - [X] Fragments Created
 - [X] Research about the Muscles/ information to be added to the Back4App
 - [X] Added Back4app for the app
 - [X] Started adding data to the DataBase/BAck4App
-- [ ] Detail Page for the Streak with detail images
+- [X] Detail Page for the Streak with detail images
+**Progress**
+- [ ]Updating fragments for streak 
+
 
 
 **Required Features**
