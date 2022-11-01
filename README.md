@@ -116,6 +116,9 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 ### Current Progress GIF
 ![Kapture 2022-10-31 at 13 35 08](https://user-images.githubusercontent.com/64405568/199084859-6ccf37bd-746a-482d-b0ae-cff368b649a6.gif)
 
+### Milestone Setup
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/FUe2lpr"  ><a href="//imgur.com/a/FUe2lpr">Milestone 4</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
 Week #1 to 2
