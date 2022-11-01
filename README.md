@@ -114,13 +114,13 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### Current Progress GIF
-![walkthrough](https://user-images.githubusercontent.com/64405568/198864934-83c05fbf-adb8-4b8d-bd49-7b7df94ee155.gif)
+![Kapture 2022-10-31 at 13 35 08](https://user-images.githubusercontent.com/64405568/199084859-6ccf37bd-746a-482d-b0ae-cff368b649a6.gif)
+
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
 Week #1 to 2
 img src="https://i.imgur.com/hRWLvpt.gif" width=600>
 Week #3
-![Kapture 2022-10-31 at 13 35 08](https://user-images.githubusercontent.com/64405568/199084859-6ccf37bd-746a-482d-b0ae-cff368b649a6.gif)
 ![Muscle Recycler View]<img src="https://media.giphy.com/media/QDMmNsmmdVsDRusr1B/giphy.gif" width=600>
 
 
