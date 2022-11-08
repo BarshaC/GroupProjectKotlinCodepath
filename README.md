@@ -44,6 +44,8 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [X] Added Back4app for the app
 - [X] Started adding data to the DataBase/BAck4App
 - [X] Detail Page for the Streak with detail images
+- [X] Signing up new users
+- [X} Login already registered users
 **Progress**
 - [ ]Updating fragments for streak 
 
