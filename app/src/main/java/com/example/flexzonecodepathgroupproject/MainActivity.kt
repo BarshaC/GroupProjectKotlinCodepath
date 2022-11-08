@@ -8,11 +8,7 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.group.myapplication.CustomAdapter
-import com.group.myapplication.ItemsViewModel
 import com.parse.ParseUser
 
 class MainActivity : AppCompatActivity() {
@@ -92,3 +88,4 @@ class MainActivity : AppCompatActivity() {
 //
 //    }
 //}
+

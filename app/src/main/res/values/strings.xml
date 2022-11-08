@@ -1,12 +1,8 @@
 <resources>
     <string name="app_name">FlexZoneCodePathGroupProject</string>
-<<<<<<< Updated upstream
-=======
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <string name="back4app_app_id">PFqXe73AKr7bEb5DeMDCPtTgIyHBG794zjKF1vwy</string>
     <string name="back4app_client_key">ExEYp3jxNrOgiKt9VpIZ9yZesRTKC4R13u5zkgj0</string>
     <string name="description">The barbell curl is a classic biceps-builder. This exercise targets the biceps and can add serious size and strength to the entire muscle when done correctly. You can curl more weight with the barbell curl than other curl variations as you’re lifting a singular implement with both hands. Simply load up a barbell, hold it in both hands, and lift it towards your chin. Rinse and repeat.</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
->>>>>>> Stashed changes
 </resources>
