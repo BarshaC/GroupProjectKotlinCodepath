@@ -119,7 +119,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src='https://i.imgur.com/bHhp1iT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Github Issue progress video walkthrough:
-<a href="//imgur.com/a/FUe2lpr">Milestone 4</a>
+<a href="//imgur.com/a/xAv3mlV">Milestone 5</a>
 
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
