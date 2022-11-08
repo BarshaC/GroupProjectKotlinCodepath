@@ -117,7 +117,6 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 
 ### Current Progress GIF
 <img src='https://i.imgur.com/bHhp1iT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Kapture 2022-10-31 at 13 35 08](https://user-images.githubusercontent.com/64405568/199084859-6ccf37bd-746a-482d-b0ae-cff368b649a6.gif)
 
 ### Github Issue progress video walkthrough:
 <a href="//imgur.com/a/FUe2lpr">Milestone 4</a>
