@@ -46,6 +46,9 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [X] Detail Page for the Streak with detail images
 - [X] Signing up new users
 - [X] Login already registered users
+- [X] Populate Profile page with user info
+- [X] Allow users to edit profile information through edit page
+- [X] Add streak page to track usage of the app
 **Progress**
 - [ ]Updating fragments for streak 
 
@@ -57,11 +60,11 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 * User can pick their habits like how frequently they are going to use the app.
 * User can click on the muscles and they can see in details about techniques for those particular workout
 * Streaks page which keeps track if the user is using the app frequently
-* User can take picture of their workout success and save it for themselves. (Not sharing/ not a social)
 * Settings (General, changing username,email)
 
 **Stretch Features**
 
+* User can take picture of their workout success and save it for themselves. (Not sharing/ not a social)
 * Youtube recommendations about what particular workout they are interested in 
 * Share progress with others
 
