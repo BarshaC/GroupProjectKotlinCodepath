@@ -49,6 +49,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [X] Populate Profile page with user info
 - [X] Allow users to edit profile information through edit page
 - [X] Add streak page to track usage of the app
+
 **Progress**
 - [ ]Updating fragments for streak 
 
@@ -119,7 +120,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### Current Progress GIF
-<img src='https://i.imgur.com/bHhp1iT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/SVh5NRf.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Github Issue progress video walkthrough:
 <a href="//imgur.com/a/xAv3mlV">Milestone 5</a>
