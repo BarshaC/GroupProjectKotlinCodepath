@@ -123,7 +123,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <a href='//i.imgur.com/SVh5NRf.mp4'>Current Progress</a>
 
 ### Github Issue progress video walkthrough:
-<a href="//imgur.com/a/xAv3mlV">Milestone 5</a>
+<a href="//i.imgur.com/ZPowrAn.mp4">Milestone 6</a>
 
 
 ### Sprint -Issues/Created/Completed so far by the team - overall project progress
