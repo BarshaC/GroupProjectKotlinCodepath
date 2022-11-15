@@ -20,12 +20,13 @@ class SignUpActivity : AppCompatActivity() {
         finish()
     }
 
-    private fun signUpUser(username:String, email:String, password:String){
+    private fun signUpUser(username:String, email:String, password:String, age:String){
         Log.i(ContentValues.TAG, "Attempting to sign in user $username");
         val user = ParseUser()
         user.setUsername(username)
         user.setEmail(email)
         user.setPassword(password)
+        user.put("Age", "$age")
 
         user.signUpInBackground { e ->
             if (e == null) {
@@ -48,13 +49,15 @@ class SignUpActivity : AppCompatActivity() {
         val username: EditText = findViewById(R.id.signUpUsername)
         val password: EditText = findViewById(R.id.signUpPassword)
         val email: EditText = findViewById(R.id.signUpEmail)
+        val age: EditText = findViewById(R.id.signUpAge)
 
         registerButton.setOnClickListener{
             Log.d(ContentValues.TAG, "onClick register Button")
             val thisUsername = username.text.toString()
             val thisEmail = email.text.toString()
             val thisPassword = password.text.toString()
-            signUpUser(thisUsername, thisEmail, thisPassword)
+            val thisAge = age.text.toString()
+            signUpUser(thisUsername, thisEmail, thisPassword, thisAge)
         }
     }
 }

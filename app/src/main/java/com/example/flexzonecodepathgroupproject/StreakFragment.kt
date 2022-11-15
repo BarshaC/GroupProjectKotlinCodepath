@@ -5,23 +5,27 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.parse.ParseQuery
 
-class StreakFragment : Fragment() {
+open class StreakFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_streak, container, false)
+
+        val view = inflater.inflate(R.layout.fragment_streak, container, false)
+        return view
     }
 
     companion object {
         @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            StreakFragment().apply {
-                arguments = Bundle().apply {
-                }
-            }
+        fun newInstance() = StreakFragment().apply {  }
     }
+    protected open fun queryStreakUser() {
+        val query = ParseQuery.getQuery(User::class.java)
+        query.include(User.KEY_STREAK);
+    }
+
+
 }

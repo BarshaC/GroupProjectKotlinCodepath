@@ -18,6 +18,7 @@ class StreamAdapter(val context: Context, val streamPosts: ArrayList<StreamMuscl
         private val tvMusclename = itemView.findViewById<TextView>(R.id.tvMuscleName)
         private val ivImage = itemView.findViewById<ImageView>(R.id.imageView)
         private val tvDescription = itemView.findViewById<TextView>(R.id.tvDescription)
+
         fun bind(muscle: StreamMuscle) {
             tvMusclename.text = muscle.name
             tvDescription.text = muscle.description

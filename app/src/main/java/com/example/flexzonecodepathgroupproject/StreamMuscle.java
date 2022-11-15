@@ -12,6 +12,9 @@ public class StreamMuscle extends ParseObject {
     public static final String KEY_WORKOUT1 = "workout1";
     public static final String KEY_WORKOUT2 = "workout2";
     public static final String KEY_WORKOUT3 = "workout3";
+    public static final String KEY_PIC_WORKOUT1 = "workout1Pic";
+    public static final String KEY_PIC_WORKOUT2 = "workout2Pic";
+    public static final String KEY_PIC_WORKOUT3 = "workout3Pic";
     public static final String KEY_DESCRIPTION = "description";
 
     public String getName() {
@@ -33,17 +36,28 @@ public class StreamMuscle extends ParseObject {
         return getParseFile(KEY_MAIN_PIC);
     }
 
-    public ParseFile getWk1Image() {
-        return getParseFile(KEY_WORKOUT1);
+    public String  getWk1() {
+        return getString(KEY_WORKOUT1);
+    }
+    public ParseFile getWorkout1Img() {
+        return getParseFile(KEY_PIC_WORKOUT1);
     }
 
-    public ParseFile getWk2Image() {
-        return getParseFile(KEY_WORKOUT2);
+    public String  getWk2() {
+        return getString(KEY_WORKOUT2);
+    }
+    public ParseFile getWorkout2Img() {
+        return getParseFile(KEY_PIC_WORKOUT2);
     }
 
-    public ParseFile getWk3Image() {
-        return getParseFile(KEY_WORKOUT3);
+
+    public String getWk3() {
+        return getString(KEY_WORKOUT3);
     }
+    public ParseFile getWorkout3Img() {
+        return getParseFile(KEY_PIC_WORKOUT3);
+    }
+
 //    public ParseUser getUser() {
 //        return getParseUser(KEY_USER);
 //    }

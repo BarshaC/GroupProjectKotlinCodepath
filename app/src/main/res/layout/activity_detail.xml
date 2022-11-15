@@ -1,48 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="match_parent"
+    android:fillViewport="false"
+    android:orientation="vertical"
+    android:padding="10dp">
 
-    <ImageView
-        android:id="@+id/detailImageView"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_marginTop="72dp"
-        android:layout_marginEnd="16dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@drawable/bicep" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:layout_marginEnd="0dp">
 
-    <TextView
-        android:id="@+id/tvMuscleNameDetail"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
-        android:text="Bicep"
-        app:layout_constraintEnd_toStartOf="@+id/detailImageView"
-        app:layout_constraintHorizontal_bias="0.045"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        <ImageView
+            android:id="@+id/detailImageView"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_below="@+id/tvMuscleNameDetail"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="13dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="11dp"
+            android:layout_toEndOf="@+id/tvDetailDescription"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:srcCompat="@drawable/bicep" />
 
-    <TextView
-        android:id="@+id/tvDetailDescription"
-        android:layout_width="209dp"
-        android:layout_height="200dp"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="24dp"
-        android:layout_marginBottom="16dp"
-        android:lines="10"
-        android:maxLines="10"
-        android:text="@string/description"
-        android:textSize="12dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/detailImageView"
-        app:layout_constraintHorizontal_bias="0.72"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tvMuscleNameDetail"
-        app:layout_constraintVertical_bias="0.006" />
+        <TextView
+            android:id="@+id/tvMuscleNameDetail"
+            style="@style/BlackCompact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Bicep"
+            app:layout_constraintEnd_toStartOf="@+id/detailImageView"
+            app:layout_constraintHorizontal_bias="0.045"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView
+            android:id="@+id/tvDetailDescription"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvMuscleNameDetail"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="32dp"
+            android:lines="10"
+            android:maxLines="10"
+            android:text="@string/description"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toStartOf="@+id/detailImageView"
+            app:layout_constraintHorizontal_bias="0.72"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvMuscleNameDetail" />
+
+        <TextView
+            android:id="@+id/textViewAboutDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/detailImageView"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="9dp"
+            android:text="Best workouts : "
+            style="@style/BlackCompact"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvDetailDescription" />
+
+        <TextView
+            android:id="@+id/tvWorkout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textViewAboutDetail"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="7dp"
+            android:text="Single-arm incline bench preacher curl"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/ivWorkOut1"
+            app:layout_constraintHorizontal_bias="0.126"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewAboutDetail" />
+
+        <ImageView
+            android:id="@+id/ivWorkOut1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvWorkout1"
+            android:layout_alignStart="@+id/tvWorkout1"
+            android:layout_alignEnd="@+id/tvWorkout1"
+            android:layout_marginStart="-7dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="29dp"
+            android:layout_toEndOf="@+id/tvWorkout1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/tvWorkout1"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tvWorkout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivWorkOut1"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="23dp"
+            android:layout_marginEnd="68dp"
+            android:text="@string/incline_dumbbell_curls_amount_4_sets_of_10_reps"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/ivWorkout3"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/ivWorkout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvWorkout2"
+            android:layout_alignStart="@+id/tvWorkout2"
+            android:layout_marginStart="-7dp"
+            android:layout_marginTop="1dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/tvWorkout2"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tvWorkout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ivWorkout2"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="68dp"
+            android:text="Standing hammer curls  Amount: 10-12 reps and perform 7, then increase the weight by 5 lbs and do another 7 reps. Continue moving up in 5-lb "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/ivWorkout3"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/ivWorkout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvWorkout3"
+            android:layout_marginStart="-7dp"
+            android:layout_marginTop="7dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="23dp"
+            app:layout_constraintTop_toTopOf="@+id/tvWorkout3"
+            tools:srcCompat="@tools:sample/avatars" />
+
+    </RelativeLayout>
+</ScrollView>

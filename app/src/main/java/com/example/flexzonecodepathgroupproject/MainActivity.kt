@@ -11,12 +11,13 @@ import androidx.fragment.app.FragmentManager
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.parse.ParseUser
 
+private const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
     val TAG = this.javaClass.simpleName
     private val bottomNavigation: BottomNavigationView by lazy {findViewById(R.id.bottomNavigationView)}
     private val fragmentManager: FragmentManager = supportFragmentManager
     private val feedFragment by lazy { FeedFragment.newInstance() }
-    //private val streakFragment by lazy { StreakFragment.newInstance() }
+    private val streakFragment by lazy { StreakFragment.newInstance() }
     //private val profileFragment by lazy { ProfileFragment() }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,7 +31,7 @@ class MainActivity : AppCompatActivity() {
                     Log.d(TAG, "Feed clicked")
                 }
                 R.id.streakTab -> {
-                    fragment = feedFragment
+                    fragment = streakFragment
                     Log.d(TAG, "Streak clicked")
                 }
 
@@ -52,6 +53,11 @@ class MainActivity : AppCompatActivity() {
             R.id.btnLogout -> {
                 ParseUser.logOut()
                 val intent = Intent(this, LoginActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
+            R.id.btnProfile -> {
+                val intent = Intent(this, ProfileActivity::class.java)
                 startActivity(intent)
                 finish()
             }
