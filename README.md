@@ -49,9 +49,10 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [X] Populate Profile page with user info
 - [X] Allow users to edit profile information through edit page
 - [X] Add streak page to track usage of the app
+- [X] Allowing users to add their ratings of workouts in the Streak page
 
 **Progress**
-- [ ]Updating fragments for streak 
+- [] Creating demo and powerpoint
 
 
 
@@ -120,7 +121,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### Current Progress GIF
-<a href='//i.imgur.com/SVh5NRf.mp4'>Current Progress</a>
+<a href='//i.imgur.com/xeBUYAR.mp4'>Current Progress</a>
 
 ### Github Issue progress video walkthrough:
 <a href="//i.imgur.com/Zs2jFuJ.mp4">Milestone 6</a>
