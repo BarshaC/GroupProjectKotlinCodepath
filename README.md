@@ -121,7 +121,7 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 <img src="https://i.imgur.com/ZS8AELS.jpeg" width=600>
 
 ### Current Progress GIF
-<a href='//i.imgur.com/xeBUYAR.mp4'>Current Progress</a>
+<a href='//i.imgur.com/xJ14xLp.mp4'>Current Progress</a>
 
 ### Github Issue progress video walkthrough:
 <a href="//i.imgur.com/GRxZ6e2.mp4">Milestone 7</a>
