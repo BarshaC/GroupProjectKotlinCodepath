@@ -50,22 +50,20 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 - [X] Allow users to edit profile information through edit page
 - [X] Add streak page to track usage of the app
 - [X] Allowing users to add their ratings of workouts in the Streak page
-
-**Progress**
-- [] Creating demo and powerpoint
-
+- [X] Creating demo and powerpoint
 
 
 **Required Features**
 
 * User can register for an account
-* User can pick their habits like how frequently they are going to use the app.
 * User can click on the muscles and they can see in details about techniques for those particular workout
 * Streaks page which keeps track if the user is using the app frequently
-* Settings (General, changing username,email)
+* Users can access their profile page to view their details
+* Users can edit their details however they like.
 
 **Stretch Features**
 
+* User can pick their habits like how frequently they are going to use the app.
 * User can take picture of their workout success and save it for themselves. (Not sharing/ not a social)
 * Youtube recommendations about what particular workout they are interested in 
 * Share progress with others
@@ -80,11 +78,9 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
   - Can be stream of workout ideas/pictures of people working out
   - Based on Gender/Unisex workouts
   - User can click on those pictures and see in detail of how to work them out
-- Search (Optional)
-  - Search particular workout/body exercise that user is interested in 
 - Progress & Streaks
   - You can see the progress and streaks of how often you exercise and pictures 
-- Settings 
+- Profile 
   - Change Email Address and Username and Password
   - Logout from app
 
@@ -94,26 +90,23 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 
 * Stream (main screen)
 * Progress and Streaks
-* Search particularly something (optional)
-* Settings
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
 - Register (if you have not)
   - Register for an account
-  - Fill the form so user can get cutomized feed
+  - Fill information on age, email, password
 - Login if registered 
-  - If forgotten password/ change password and login
+  - Click "Sign Up" button if there is no account created. 
 - Stream 
   - Main Feed full of recommended workout examples and pictures
   - Click on the pictures and titles to get more details about them
-- Progress & Streaks
-  - Get the idea of how much you are improving and how often you use app and work out
-  - User can login time and logout time to keep track of how long they are working out
-  - Click on the camera feature and save pictures for the record if interested
-- Settings
-  - Click on profile settings and change username, email or password
-  - Change preferences about the reccomendations
+- Streaks
+  - Get the idea of how much you are improving and how often you use app and work out.
+  - User can put in their satisfaction before and after their workouts to see progress. 
+- Profile
+  - Click on profile settings and change username, email or age
 
 ## Wireframes
 
@@ -122,6 +115,9 @@ Link for the HackMD file that we all used for brainstorming and concluded we sho
 
 ### Current Progress GIF
 <a href='//i.imgur.com/xJ14xLp.mp4'>Current Progress</a>
+
+### Full Working Demo
+<a href='//i.imgur.com/1JAxCHH.mp4'>Current Progress</a>
 
 ### Github Issue progress video walkthrough:
 <a href="//i.imgur.com/GRxZ6e2.mp4">Milestone 7</a>
